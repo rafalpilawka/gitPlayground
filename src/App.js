@@ -5,8 +5,8 @@ function App() {
   return (
 
     <div className="App">
-      <h1>This lien suppose to stay</h1>
-      <h1>This is 5th branch</h1>
+      <h1>This line suppose to stay</h1>
+
     </div>
   );
 }
