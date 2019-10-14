@@ -3,7 +3,8 @@ import React from 'react'
 const Test = () => {
     return (
         <div>
-            Not receiving new lines
+            <p>Not receiving new lines</p>
+            <p>need to make soe stuff</p>
         </div>
     )
 }
