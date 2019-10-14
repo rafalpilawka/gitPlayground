@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>This line suppose to stay</h1>
       <Master one="one" ></Master>
+     <h1>SECOND BRANCH</h1>
     </div>
   );
 }
